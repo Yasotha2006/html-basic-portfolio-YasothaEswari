@@ -1,0 +1,90 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #f4f4f4;
+    text-align:center;
+    margin-top: 50px;
+}
+h1{
+    color: #333333;
+    font-size: 40px;
+}
+.intro
+{
+    font-size: 18px;
+    color: #555555;
+    max-width: 600px;
+    margin: auto;
+    text-indent: 40px;
+}
+.abouttitle
+{
+    font-size: 24px;
+    color: #333333;
+    margin-top: 40px;
+}
+.aboutme
+{
+    font-size: 18px;
+    color: #555555;
+    max-width: 600px;
+    margin: auto;
+    text-indent: 40px;
+}
+.skills
+{
+    font-size: 24px;
+    color: #333333;
+    margin-top: 40px;
+}
+.skillslist
+{
+    font-size: 18px;
+    color: #555555;
+    text-align: left;
+    max-width: 300px;
+    margin:auto;
+}
+.learning
+{
+    font-size: 24px;
+    color: #333333;
+    margin-top: 40px;
+}
+.learnlist
+{
+    font-size: 18px;
+    color: #555555;
+    text-align: left;
+    max-width: 300px;
+    margin:auto;
+}
+.projects-table{
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    font-family: 'Times New Roman', Times, serif;
+    color:#555555;
+    text-align: left;
+    max-width: 600px;
+}
+.projects-table,
+.projects-table th,
+.projects-table td
+{
+    border: 2px solid #333;
+}
+.projects-table th
+{
+    padding: 10px;
+    background-color: #e0e0e0e7;
+}
+.projects-table td
+{
+    padding: 10px;
+}
+.contact-details
+{
+    font-size: 24px;
+    color: #555555;
+    margin-top: 40px;
+}
